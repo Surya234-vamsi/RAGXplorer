@@ -24,4 +24,8 @@ Use the sidebar pages to explore:
 Each version lets you connect your own Google Generative AI API key for personalized experiences/ Custom Data Sources.            
 """)
 
+
+st.logo("assets/logo.png", width=150)
+st.sidebar.text("© 2024 Multi-RAG Suite by Surya Vamsi")
+
 # streamlit run app.py
