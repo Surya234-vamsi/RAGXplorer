@@ -17,7 +17,7 @@ from langchain_core.runnables import RunnablePassthrough
 
 # --- PAGE CONFIG ---
 st.set_page_config(page_title="Conversational RAG", page_icon="💬", layout="centered")
-st.title("💬 Conversational RAG with Memory (Gemini + LangChain)")
+st.title("💬 Conversational RAG with Memory")
 st.caption("Ask questions about any website and retain conversation context.")
 
 # --- USER INPUTS ---

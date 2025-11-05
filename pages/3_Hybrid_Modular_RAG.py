@@ -9,7 +9,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma
 from langchain_google_genai import ChatGoogleGenerativeAI
 import google.auth
-from utils.core_utils import ConversationBufferMemory
+from langchain.memory import ConversationBufferMemory
 
 
 # --- STREAMLIT PAGE SETUP ---

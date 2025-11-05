@@ -25,7 +25,6 @@ Each version lets you connect your own Google Generative AI API key for personal
 """)
 
 
-st.logo("assets/logo.png", width=150)
-st.sidebar.text("© 2024 Multi-RAG Suite by Surya Vamsi")
+st.sidebar.text("© 2025 RAG-Suite by Surya Vamsi")
 
 # streamlit run app.py
